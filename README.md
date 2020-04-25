@@ -1,4 +1,4 @@
-# This is a test project
+## A Book Store Backend in Spring Boot
 
 The bookstore is entirely built with Spring framework using Java and mySQL to store the records
 
@@ -13,7 +13,3 @@ Returns the search, purchase, availability status and allows editing as well
 Download Spring tools
 Import open the project
 Buld and run the project
-
-# Issues
-There might be errors arising, its yet to be resolved
-JUnit tests are yet to be coded
